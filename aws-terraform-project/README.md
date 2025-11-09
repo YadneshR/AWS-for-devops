@@ -3,6 +3,7 @@
 This repository contains a fully automated Terraform configuration that builds a scalable, load balanced, two-tier web architecture on AWS. The setup includes a custom VPC, public subnets, routing, an internet gateway, two EC2 web servers, an Application Load Balancer, a target group, health checks, and an S3 bucket.
 
 ---
+![AWS Terraform Infra](https://github.com/user-attachments/assets/0abb17ae-3b89-4407-bd5c-9aa77077eade)
 
 ## Overview
 
